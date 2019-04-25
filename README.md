@@ -27,18 +27,18 @@ Document introduction:
 ===>Q3DAudio
     |--PluginLibs/ ：some dynamic libraries too.
     |--Scripts 
-         |--Q3DAudioGlobalSettings.cs:  get Q3DAudioGlobalSettings attribute values from inspector and handle it accordingly.
-         |--Q3DAudioListener.cs:        get Q3DAudioListener attribute values from inspector and handle it accordingly.
-         |--Q3DAudioManager.cs:         get Q3DAudioManager attribute values from inspector and handle it accordingly.
-         |--Q3DAudioRoom.cs:            get Q3DAudioRoom values from inspector and handle it accordingly.
-         |--Q3DAudioSource.cs:          get Q3DAudioSource attribute values from inspector and handle it accordingly.
+         |--Q3DAudioGlobalSettings.cs: get Q3DAudioGlobalSettings attribute values from inspector and handle it accordingly.
+         |--Q3DAudioListener.cs:       get Q3DAudioListener attribute values from inspector and handle it accordingly.
+         |--Q3DAudioManager.cs:        get Q3DAudioManager attribute values from inspector and handle it accordingly.
+         |--Q3DAudioRoom.cs:           get Q3DAudioRoom values from inspector and handle it accordingly.
+         |--Q3DAudioSource.cs:         get Q3DAudioSource attribute values from inspector and handle it accordingly.
 
 ====>Scripts
-     |--PlanetMove.cs:                  mainly to make planets achieve rotation　and revolution.
-     |--SwitchToMain.cs:                switch to main Scene.
-     |--SwitchToNepture.cs:             switch to Nepture Scene.
-     |--SwitchToUp.cs:                  switch to looking up Scene.
-     |--ZoomInAndout.cs:                mainly to make gameobjects zoom in and out.
+     |--PlanetMove.cs:                 mainly to make planets achieve rotation　and revolution.
+     |--SwitchToMain.cs:               switch to main Scene.
+     |--SwitchToNepture.cs:            switch to Nepture Scene.
+     |--SwitchToUp.cs:                 switch to looking up Scene.
+     |--ZoomInAndout.cs:               mainly to make gameobjects zoom in and out.
 
 ===>AudioMixer.mixer:an AudioMixer.
 
